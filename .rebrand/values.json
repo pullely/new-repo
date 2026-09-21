@@ -1,0 +1,11 @@
+{
+  "reponame": "new-repo",
+  "productname": "new",
+  "productdomain": "new.com",
+  "apibaseurl": "https://api.new.com",
+  "subdomain": "orundemo",
+  "orunWorkspace": "org_2bba00cd14f942b1b5356cff5c0c1bf0",
+  "githuborg": "pullely",
+  "epicSlug": "infra-baselining",
+  "domain": false
+}
